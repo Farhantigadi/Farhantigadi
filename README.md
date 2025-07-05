@@ -3,6 +3,20 @@
 I'm a passionate **Java Backend Developer** focused on designing secure, scalable RESTful services using **Spring Boot**. I love building real-world applications with clean architecture, robust authentication, and maintainable code.
 
 ---
+🛠️ Tech Stack & Tools
+
+Languages: Java, HTML, CSS, JavaScript (currently learning)
+
+Frameworks: Spring Boot, Spring Security, JPA
+
+Database: MySQL
+
+Testing: JUnit, Mockito
+
+Tools: Postman, Swagger, SonarCloud, GitHub
+---
+
+
 
 ## 🚀 Projects
 
@@ -33,17 +47,6 @@ A personal journal platform with secure login and role-based access.
 * Swagger documentation and Postman testing
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-**Languages:** Java, HTML, CSS, JavaScript *(currently learning)*
-**Frameworks:** Spring Boot, Spring Security, JPA
-**Database:** MySQL
-**Testing:** JUnit, Mockito
-**Tools:** Postman, Swagger, SonarCloud, GitHub
-
----
-
 ## 📘 What I’ve Learned So Far
 
 * JWT-based authentication & role management
